@@ -1,0 +1,7 @@
+name: Krishna AI
+mode: auto
+agents:
+  - Trading Master
+  - Course Maker
+  - Marketing
+  - Website Manager
